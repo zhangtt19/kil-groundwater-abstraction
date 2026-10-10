@@ -1,0 +1,5 @@
+﻿component,direction,10_lps_m3_day,20_lps_m3_day
+recharge,in,3035.24,3035.24
+pumping,out,864,1728
+drains,out,396.81,387.21
+groundwater_to_rivers,out,1774.42,920.01

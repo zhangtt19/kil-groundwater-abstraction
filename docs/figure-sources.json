@@ -1,0 +1,47 @@
+[
+  {
+    "file": "figures/catchment-context.png",
+    "report_page": 5,
+    "description": "Catchment context"
+  },
+  {
+    "file": "figures/geology-section.png",
+    "report_page": 5,
+    "description": "Hydrogeological section"
+  },
+  {
+    "file": "figures/stratigraphy.png",
+    "report_page": 5,
+    "description": "Geological layers"
+  },
+  {
+    "file": "figures/conceptual-model.png",
+    "report_page": 6,
+    "description": "Surface and boundary concept"
+  },
+  {
+    "file": "figures/model-domain.png",
+    "report_page": 6,
+    "description": "Model boundary"
+  },
+  {
+    "file": "figures/head-comparison.png",
+    "report_page": 7,
+    "description": "Observed and simulated heads"
+  },
+  {
+    "file": "figures/initial-heads.png",
+    "report_page": 7,
+    "description": "Initial head distributions for 10 and 20 L/s"
+  },
+  {
+    "file": "figures/revised-heads.png",
+    "report_page": 8,
+    "description": "Head distributions after topographic adjustments"
+  },
+  {
+    "file": "figures/conductivity-zones.png",
+    "report_page": 14,
+    "description": "Six hydraulic conductivity zones"
+  }
+]

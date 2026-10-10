@@ -1,0 +1,230 @@
+[
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l.gpr",
+    "bytes": 2528993,
+    "sha256": "b27208c3470e0546ce34acb20e7f94efd902dd9bb07483b7a0e205dd8ab5a101"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.ba6",
+    "bytes": 175,
+    "sha256": "b6270d187ed7f6b9f00d45567fdc042158bfb778be54121554a0df67cb987ddd"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.dis",
+    "bytes": 8734,
+    "sha256": "d51709656f744ccfb6ae534988208fc5cf68bc777f2cf5192550f27d3ea54111"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.drn",
+    "bytes": 127,
+    "sha256": "f65589d04f7aa29af6f05f81828993d4e679d63529650d2dbde8cd13c3ed0dff"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.drob",
+    "bytes": 363,
+    "sha256": "97f083730798a564ed2ec233f939dcab946b189840aedf26edddea2c0504cdb6"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.h5",
+    "bytes": 1235777,
+    "sha256": "80c8de7fda47f5759bbed7ecda2937f9ec54e9140535d29651aeb012f6aae351"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.hob",
+    "bytes": 1361,
+    "sha256": "454480726b0372ba8a80dcfc19b78fc5f1fbcf50361f6b17d0b5d98d17c5c5fb"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.lmt",
+    "bytes": 145,
+    "sha256": "5b9a652499e000268dcc48b9771ed3e374a7d60019f54ed38aea4d3aee18e719"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.lpf",
+    "bytes": 201,
+    "sha256": "0be484bd9026f3d9e0e56c6223538cf71552f17c354f0e9c2d03b5838f9facfc"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.mfn",
+    "bytes": 798,
+    "sha256": "f5668f0e15b170624260630d2947755f262b97f36037cef5027756ad02c5cebb"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.mfr",
+    "bytes": 63,
+    "sha256": "2236e6f1609c969dfc92878883282619d6b6900418c757a0aebcd7f207ed964a"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.mfs",
+    "bytes": 831,
+    "sha256": "6e2d66ed3a15989b8b02d9363a13ebdb5777faa06872700f62214b73ae16a387"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.obs",
+    "bytes": 14,
+    "sha256": "cad2706d811a51c43f4ae5f6b7d77a47d63073c39a6a8451054ba6e03d80a54a"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.oc",
+    "bytes": 105,
+    "sha256": "f439aa8c490321f85d6841f2c2feeae07f7a218969952cc511d7de7b0b44b3d6"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.pcg",
+    "bytes": 35,
+    "sha256": "8d74924ae8ebfd614ffc6a8a95ca574144860aa4c883e99dbd42402402f0815d"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.rch",
+    "bytes": 98,
+    "sha256": "0977cc975217eaf12301e823f94565bb0a62afdf59027efb386a60b578998e81"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.riv",
+    "bytes": 128,
+    "sha256": "bff00f3898345fdc936606503232c573bef2f7db71aaf1f57c3c0fc0ac2ab232"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.rvob",
+    "bytes": 577,
+    "sha256": "ddbee1737185e0bdf41320e976a86d9fa8d1d97952f4ec5e93bf654f2a67a684"
+  },
+  {
+    "archive": "10-lps.zip",
+    "member": "Group11_10l_MODFLOW/Group11_10l.wel",
+    "bytes": 123,
+    "sha256": "970c409a2b358f9eafe62acbcf0e656ea6faace71b343d9b42ca12dfe8fb33e4"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l.gpr",
+    "bytes": 2524110,
+    "sha256": "ae474779e7e7e9985bf3b51d96837b250c6199644d4b6ccb0dd6b6ab1789302b"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.ba6",
+    "bytes": 175,
+    "sha256": "a3813a22b6b59e24022e0769edbe1beeddd95d230b3caa18306c01486f0f455f"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.dis",
+    "bytes": 8734,
+    "sha256": "d98eadeec4aa6c1a24c36fdb278e2d6d36b1972bd48091b08766c860cb3d1eda"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.drn",
+    "bytes": 127,
+    "sha256": "e1ba971f768519a014676d73740508125a74f88946dcba446201fafc4c3235dd"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.drob",
+    "bytes": 363,
+    "sha256": "97f083730798a564ed2ec233f939dcab946b189840aedf26edddea2c0504cdb6"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.h5",
+    "bytes": 1223314,
+    "sha256": "f0842f2e1f1bd2c4e7cd1293fa0cc2e420e9f2b6b0315864a12da7bd7cc54dcc"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.hob",
+    "bytes": 1361,
+    "sha256": "454480726b0372ba8a80dcfc19b78fc5f1fbcf50361f6b17d0b5d98d17c5c5fb"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.lmt",
+    "bytes": 145,
+    "sha256": "54084145ca77433c9faeda77b44f0597f84e50f0612c9b60fc09b0866782ead0"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.lpf",
+    "bytes": 201,
+    "sha256": "dfa21a947f11a73e83217b3bd13afe15a6dd9f6e6eda64dabaa42cfea20858fb"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.mfn",
+    "bytes": 798,
+    "sha256": "85b93f78a4a57a9a884b04d7fc9c7153d6f518b1ab8b30c57e7f68843a05d2b2"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.mfr",
+    "bytes": 63,
+    "sha256": "bbbb035f4e5bf3ee09b255335d11a5ef00b2d0522cc3dae13d5d24892c0ea85d"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.mfs",
+    "bytes": 831,
+    "sha256": "172a316fad7fe403fe1b88a129e37b0032ad09224ba18d56d20165aadc5b8855"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.obs",
+    "bytes": 14,
+    "sha256": "ca7f66e57b5fed7e8aca1b533ff3a2ad2b9239c8fe2e00cc4f474659dc4a18b7"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.oc",
+    "bytes": 105,
+    "sha256": "f439aa8c490321f85d6841f2c2feeae07f7a218969952cc511d7de7b0b44b3d6"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.pcg",
+    "bytes": 35,
+    "sha256": "8d74924ae8ebfd614ffc6a8a95ca574144860aa4c883e99dbd42402402f0815d"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.rch",
+    "bytes": 98,
+    "sha256": "8bad90da7f482ea2037b29fc695e44110887a8ed82fa7de0dfe79f033fba05ea"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.riv",
+    "bytes": 128,
+    "sha256": "725eb315654bd9e7dcefbc0568fd483fa873d6a5b209b2b76df1b71c07c6e7cf"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.rvob",
+    "bytes": 577,
+    "sha256": "ddbee1737185e0bdf41320e976a86d9fa8d1d97952f4ec5e93bf654f2a67a684"
+  },
+  {
+    "archive": "20-lps.zip",
+    "member": "Group11_20l_MODFLOW/Group11_20l.wel",
+    "bytes": 123,
+    "sha256": "7b263c55b7a803570e76cee93576029334ef95a9d342e50b88677cadd2f0fed4"
+  }
+]
